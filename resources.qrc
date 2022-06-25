@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Segmentation_Hybrid" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
